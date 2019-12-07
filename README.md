@@ -30,7 +30,7 @@ To install the `dotfiles` run the next snippet in the terminal:
 
 | OS | Snippet |
 |:---|:---|
-| `Ubuntu` | `bash -c "$(wget -qO - https://raw.github.com/nikiforovall/dotfiles/master/src/wsl/os/install.sh)"` |
+| `Ubuntu` | `bash -c "$(wget -qO - https://raw.github.com/5w33n/dotfiles/master/src/wsl/os/install.sh)"` |
 
 ### `~/.*.local`
 
